@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIzN3I4Y3IyZHpnbDJ0bHVmZXoxNzVuN3R4b2x4cXpheXdjNWhyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/4wGylHPsHJ7tfVuXQQ/giphy.gif" width="175"/> 
+<img text-aling="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIzN3I4Y3IyZHpnbDJ0bHVmZXoxNzVuN3R4b2x4cXpheXdjNWhyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/4wGylHPsHJ7tfVuXQQ/giphy.gif" width="175"/> 
 
 ![banner del elPerna](github-header-image.png)
 
