@@ -1,5 +1,9 @@
-# 💫 About Me:
-Ingeniero de Sistemas venezolano 🇻🇪 con 32 años, apasionado por el desarrollo web back-end. Con experiencia en Typescript y Node.js, he construido aplicaciones web escalables y eficientes.  Actualmente estoy explorando el mundo de la web3. Busco un equipo dinámico donde pueda aplicar mis conocimientos y contribuir a proyectos innovadores. ¡Siempre dispuesto a aprender y crecer!
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIzN3I4Y3IyZHpnbDJ0bHVmZXoxNzVuN3R4b2x4cXpheXdjNWhyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/4wGylHPsHJ7tfVuXQQ/giphy.gif" width="175"/> 
+
+![banner del elPerna](github-header-image.png)
+
+# ¡Hola! Me alegro de verte.
+Me llamo jose pernalete y soy Ingeniero de Sistemas venezolano 🇻🇪 con 32 años, apasionado por el desarrollo web back-end. Con experiencia en Typescript y Node.js, he construido aplicaciones web escalables y eficientes.  Actualmente estoy explorando el mundo de la web3. Busco un equipo dinámico donde pueda aplicar mis conocimientos y contribuir a proyectos innovadores. ¡Siempre dispuesto a aprender y crecer!
 
 
 ## 🌐 Socials:
@@ -16,3 +20,4 @@ Ingeniero de Sistemas venezolano 🇻🇪 con 32 años, apasionado por el desarr
 [![](https://visitcount.itsvg.in/api?id=elPerna&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
