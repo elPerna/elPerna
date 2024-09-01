@@ -2,9 +2,9 @@
 
 ![banner del elPerna](github-header-image.png)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/jose-pernalete)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/perna2112?igsh=ZXZsbmlybXozOXBx)
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)(https://www.tiktok.com/@el_pernaflow?_t=8pLkidyn8ZK&_r=1)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-pernalete)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/perna2112?igsh=ZXZsbmlybXozOXBx)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@el_pernaflow?_t=8pLkidyn8ZK&_r=1)
 
 # Bienvenido a mi pagina de GitHub!.
 Me llamo jose pernalete y soy Ingeniero de Sistemas venezolano 🇻🇪 con 32 años, apasionado por el desarrollo web back-end. Con experiencia en Typescript y Node.js, he construido aplicaciones web escalables y eficientes.  Actualmente estoy explorando el mundo de la web3. Busco un equipo dinámico donde pueda aplicar mis conocimientos y contribuir a proyectos innovadores. ¡Siempre dispuesto a aprender y crecer!
