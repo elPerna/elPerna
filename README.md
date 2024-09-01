@@ -7,6 +7,8 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@el_pernaflow?_t=8pLkidyn8ZK&_r=1)
 
 # Bienvenido a mi GitHub Site!
+![profile-views](https://komarev.com/ghpvc/?username=elPerna&color=lightgrey)
+
 Me llamo José Pernalete y soy Ingeniero de Sistemas venezolano 🇻🇪 con 32 años, apasionado por el desarrollo web back-end. Con experiencia en Typescript y Node.js, he construido aplicaciones web escalables y eficientes.  Actualmente estoy explorando el mundo de la web3. Busco un equipo dinámico donde pueda aplicar mis conocimientos y contribuir a proyectos innovadores. ¡Siempre dispuesto a aprender y crecer!
 
 # 💻 Tecnologías que uso actualmente:
