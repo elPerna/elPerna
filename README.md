@@ -49,8 +49,6 @@ Me llamo José Pernalete y soy Ingeniero de Sistemas venezolano 🇻🇪 con 32 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elPerna&layout=compact&theme=dark)
 
-![Metrics](https://metrics.lecoq.io/elPerna)
-
 # 🏆 Trofeos
 [![trophy](https://github-profile-trophy.vercel.app/?username=elPerna&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
